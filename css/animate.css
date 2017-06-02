@@ -24,6 +24,10 @@ Copyright (c) 2015 Daniel Eden
   animation-duration: 2s;
 }
 
+.main-title {
+  color: black;
+}
+
 .animated.bounceIn,
 .animated.bounceOut {
   -webkit-animation-duration: .75s;
