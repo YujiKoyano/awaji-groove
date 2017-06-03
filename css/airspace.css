@@ -46,10 +46,11 @@ a,
 a:active,
 a:focus,
 a:active {
-  text-decoration: none !important;
+  /*text-decoration: none !important;*/
 }
 .section-title {
-  margin-bottom: 70px;
+  /*margin-bottom: 70px;*/
+  margin-top: 50px;
 }
 .section-title h2 {
   text-transform: uppercase;
@@ -99,7 +100,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider {
   background: url("../img/slider-bg.jpg") no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   background-position: 10% 0%;
   padding: 200px 0 280px 0;
   position: relative;
@@ -138,7 +139,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	wrapper Start
 --*/
 #intro {
-  padding: 100px 0;
+  /*padding: 100px 0;*/
 }
 #intro .block h2 {
   padding-top: 35px;
@@ -155,6 +156,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .section-title {
   margin-bottom: 0px;
+  padding-left: 15px;
 }
 #intro .section-title p {
   padding-top: 20px;
@@ -191,7 +193,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #call-to-action {
   background: url("../img/call-to-action-bg.jpg") no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+  /*background-attachment: fixed;*/
   padding: 70px 0px;
   position: relative;
   text-align: center;
@@ -270,7 +272,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	content Start
 --*/
 #testimonial {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 #testimonial .block h2 {
   line-height: 27px;
@@ -345,7 +347,7 @@ font header .navbar-default .navbar-nav li a:hover {
   content Start
 --*/
 #testimonial {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 #testimonial .block h2 {
   line-height: 27px;
@@ -420,7 +422,7 @@ font header .navbar-default .navbar-nav li a:hover {
   content Start
 --*/
 #testimonial-2 {
-  padding: 100px 0;
+  /*padding: 100px 0;*/
 }
 #testimonial-2 .block h2 {
   line-height: 27px;
@@ -455,7 +457,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0 auto;
 }
 #testimonial-2 .testimonial-2-carousel img {
-  padding-bottom: 38px;
+  padding-bottom: 10px;
 }
 #testimonial-2 .testimonial-2-carousel p {
   line-height: 28px;
