@@ -342,6 +342,156 @@ font header .navbar-default .navbar-nav li a:hover {
   border: 0px;
 }
 /*--
+  content Start
+--*/
+#testimonial {
+  padding: 100px 0;
+}
+#testimonial .block h2 {
+  line-height: 27px;
+  color: #5C5C5C;
+  padding-top: 110px;
+}
+#testimonial .block p {
+  padding-top: 50px;
+  color: #7B7B7B;
+}
+#testimonial .counter-box li {
+  width: 50%;
+  float: left;
+  text-align: center;
+  margin: 30px 0 30px;
+}
+#testimonial .counter-box li i {
+  font-size: 35px;
+}
+#testimonial .counter-box li h4 {
+  font-size: 30px;
+  font-weight: bold;
+}
+#testimonial .counter-box li span {
+  color: #555;
+}
+#testimonial .testimonial-carousel {
+  text-align: center;
+  width: 75%;
+  border: 1px solid #DEDEDE;
+  padding: 24px;
+  margin: 0 auto;
+}
+#testimonial .testimonial-carousel img {
+  padding-bottom: 38px;
+}
+#testimonial .testimonial-carousel p {
+  line-height: 28px;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
+#testimonial .testimonial-carousel .user img {
+  padding-bottom: 0px;
+  border-radius: 500px;
+}
+#testimonial .testimonial-carousel .user p {
+  padding-bottom: 0;
+  font-size: 12px;
+  line-height: 20px;
+  color: #353241;
+}
+#testimonial .testimonial-carousel .user p span {
+  display: block;
+  color: #353241;
+  font-weight: 600;
+}
+#testimonial .testimonial-carousel .owl-carousel .owl-pagination div {
+  border: 1px solid #1D1D1D;
+  border-radius: 500px;
+  display: inline-block;
+  height: 10px;
+  margin-right: 15px;
+  width: 10px;
+}
+#testimonial .testimonial-carousel .owl-carousel .owl-pagination div.active {
+  background: #5C5C5C;
+  font-size: 30px;
+  display: inline-block;
+  border: 0px;
+}
+/*--
+  content Start
+--*/
+#testimonial-2 {
+  padding: 100px 0;
+}
+#testimonial-2 .block h2 {
+  line-height: 27px;
+  color: #5C5C5C;
+  padding-top: 110px;
+}
+#testimonial-2 .block p {
+  padding-top: 50px;
+  color: #7B7B7B;
+}
+#testimonial-2 .counter-box li {
+  width: 50%;
+  float: left;
+  text-align: center;
+  margin: 30px 0 30px;
+}
+#testimonial-2 .counter-box li i {
+  font-size: 35px;
+}
+#testimonial-2 .counter-box li h4 {
+  font-size: 30px;
+  font-weight: bold;
+}
+#testimonial-2 .counter-box li span {
+  color: #555;
+}
+#testimonial-2 .testimonial-2-carousel {
+  text-align: center;
+  width: 75%;
+  border: 1px solid #DEDEDE;
+  padding: 24px;
+  margin: 0 auto;
+}
+#testimonial-2 .testimonial-2-carousel img {
+  padding-bottom: 38px;
+}
+#testimonial-2 .testimonial-2-carousel p {
+  line-height: 28px;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
+#testimonial-2 .testimonial-2-carousel .user img {
+  padding-bottom: 0px;
+  border-radius: 500px;
+}
+#testimonial-2 .testimonial-2-carousel .user p {
+  padding-bottom: 0;
+  font-size: 12px;
+  line-height: 20px;
+  color: #353241;
+}
+#testimonial-2 .testimonial-2-carousel .user p span {
+  display: block;
+  color: #353241;
+  font-weight: 600;
+}
+#testimonial-2 .testimonial-2-carousel .owl-carousel .owl-pagination div {
+  border: 1px solid #1D1D1D;
+  border-radius: 500px;
+  display: inline-block;
+  height: 10px;
+  margin-right: 15px;
+  width: 10px;
+}
+#testimonial-2 .testimonial-2-carousel .owl-carousel .owl-pagination div.active {
+  background: #5C5C5C;
+  font-size: 30px;
+  display: inline-block;
+  border: 0px;
+}
+/*--
 	features Start
 --*/
 #clients-logo-section {
