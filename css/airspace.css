@@ -57,6 +57,7 @@ a:active {
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 300;
+  letter-spacing: 2px;
 }
 .section-title p {
   font-family: 'Volkhov', serif;
@@ -147,6 +148,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 35px;
   line-height: 27px;
   margin: 0;
+  letter-spacing: 2px;
 }
 #intro .block p {
   color: #7B7B7B;
@@ -219,6 +221,7 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 33px;
   margin: 0;
   font-size: 30px;
+  letter-spacing: 2px;
 }
 #call-to-action p {
   font-size: 14px;
@@ -262,6 +265,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 28px;
   font-weight: 300;
   margin-bottom: 30px;
+  letter-spacing: 2px;
 }
 #feature p {
   color: #8d8f92;
@@ -282,6 +286,7 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 27px;
   color: #5C5C5C;
   padding-top: 110px;
+  letter-spacing: 2px;
 }
 #testimonial .block p {
   padding-top: 50px;
@@ -358,6 +363,7 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 27px;
   color: #5C5C5C;
   padding-top: 110px;
+  letter-spacing: 2px;
 }
 #testimonial .block p {
   padding-top: 50px;
@@ -434,6 +440,7 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 27px;
   color: #5C5C5C;
   padding-top: 110px;
+  letter-spacing: 2px;
 }
 #testimonial-2 .block p {
   padding-top: 50px;
@@ -726,6 +733,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 28px;
   padding-top: 75px;
   position: relative;
+  letter-spacing: 2px;
 }
 #wrapper-work ul li .items-text h2:before {
   font-family: 'Roboto', sans-serif;
@@ -736,6 +744,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 75px;
   height: 3px;
   background: #fff;
+  letter-spacing: 2px;
 }
 #wrapper-work ul li .items-text p {
   padding-top: 30px;
