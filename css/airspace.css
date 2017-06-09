@@ -203,6 +203,7 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
   color: #fff;
 }
+
 #call-to-action:before {
   content: "";
   position: absolute;
@@ -228,6 +229,52 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 1.6;
 }
 #call-to-action .btn-call-to-action {
+  padding: 15px 35px;
+  border: none;
+  background-color: #fff;
+  font-size: 15px;
+  color: #333333;
+  margin-top: 30px;
+}
+/*--
+	call-to-action Start
+--*/
+#call-to-action-2 {
+  background: url("../img/call-to-action-bg01.png") no-repeat;
+  background-size: cover;
+  background-position-x: 25%;
+  /*background-attachment: fixed;*/
+  padding: 70px 0px;
+  position: relative;
+  text-align: center;
+  color: #000;
+}
+
+#call-to-action-2:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  /*background: #1d192c;*/
+  opacity: 0.8;
+}
+#call-to-action-2 h2 {
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 20px;
+  line-height: 33px;
+  margin: 0;
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+#call-to-action-2 p {
+  font-size: 14px;
+  line-height: 1.6;
+}
+#call-to-action-2 .btn-call-to-action {
   padding: 15px 35px;
   border: none;
   background-color: #fff;
